@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+*.log
+.DS_Store
+server/uploads/
+server/keys/*.pem
+client/dist/
+.vscode/
+.eth-wallet.json
+server/samples/
+samples/
